@@ -1,5 +1,3 @@
-import React from "react";
-
 function Hello() {
   return (
     <div className="flex items-center justify-center flex-wrap p-6">

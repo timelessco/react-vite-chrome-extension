@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Header from "./components/header";
 import Hello from "./components/hello";
 
