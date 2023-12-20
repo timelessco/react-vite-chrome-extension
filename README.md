@@ -2,11 +2,12 @@
 
 ![react-vite-chrome-extension](./assets/cover.png)
 
-This project is a boilerplate for creating a Google Chrome Extension with React + Vitejs + TailwindCSS.
+This project is a boilerplate for creating a Google Chrome Extension with React + Vitejs + TailwindCSS + TypeScript.
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## :bulb: Preview
 
@@ -14,7 +15,7 @@ This project is a boilerplate for creating a Google Chrome Extension with React 
 
 ## :package: Requirements
 
-- Nodejs v16 LTS
+- Nodejs v18+ LTS
 
 ## :atom_symbol: Development
 
@@ -27,13 +28,13 @@ git clone https://github.com/timelessco/react-vite-chrome-extension
 - Install dependencies
 
 ```
-yarn install
+pnpm install
 ```
 
 - Start Development Server
 
 ```
-yarn dev
+pnpm dev
 ```
 
 ## :computer: Production
@@ -41,7 +42,7 @@ yarn dev
 - Building the chrome extension for production
 
 ```
-yarn build
+pnpm build
 ```
 
 ## :rocket: Usage

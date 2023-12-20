@@ -1,5 +1,3 @@
-import React from "react";
-
 function Header() {
   return (
     <nav className="flex items-center justify-between flex-wrap bg-teal-500 p-6">
