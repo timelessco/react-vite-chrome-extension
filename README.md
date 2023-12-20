@@ -1,4 +1,4 @@
-# React + Vite Chrome Extension Starter
+# React TypeScript + Vite Chrome Extension Starter
 
 ![react-vite-chrome-extension](./assets/cover.png)
 
