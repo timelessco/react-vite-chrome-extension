@@ -16,6 +16,9 @@
             "128": "logo128.png"
         }
     },
+    "background": {
+        "service_worker": "service-worker.js"
+    },
     "permissions": [
         "storage",
         "tabs"
